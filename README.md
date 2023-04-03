@@ -62,5 +62,5 @@ These are some of the technologies and tools that I have experience in my daily 
   <a href="https://discord.gg/NXGGp4KaQH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 <br>
-<p>🧠 <span style="font-style:italic">"Quer mudar o mundo, começe por você primeiro!"</span></p>
+<p>🧠 <span style="font-style:italic">"If you want to change the world, start with yourself first!"</span></p>
 
