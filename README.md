@@ -11,7 +11,7 @@ Full Stack Developer
 
 <p>
   <em>
-    Passionate about technology, from São Paulo and currently working as a Full Stack Developer at "Indica leads", by Devzapp.
+    Passionate about technology, from São Paulo and currently working as a Full Stack Developer at DevClub.
   </em>
 </p>
 
